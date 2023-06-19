@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150947689527",
+    "project_id": "singnup-login-realtime-71f63",
+    "storage_bucket": "singnup-login-realtime-71f63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150947689527:android:a5627c4194e20221aafbb2",
+        "android_client_info": {
+          "package_name": "es.studium.singnuploginrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150947689527-t3m8o5irha083j3emhq9jdgbn0qo2ta8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuxWGo_021EdFenLUJt5t4XPL_hZhhmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150947689527-t3m8o5irha083j3emhq9jdgbn0qo2ta8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
